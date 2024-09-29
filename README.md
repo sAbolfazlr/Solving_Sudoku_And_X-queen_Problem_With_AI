@@ -1,2 +1,2 @@
-# Solving_Sudoku_And_X-queen_Problem_With_AI
- Solving_Sudoku_And_X-queen_Problem_With_AI 
+# Solving Sudoku And X-queen Problem With AI
+you need the pygame library for run this project
